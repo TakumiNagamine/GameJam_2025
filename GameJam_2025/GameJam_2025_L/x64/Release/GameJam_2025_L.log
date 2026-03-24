@@ -1,0 +1,32 @@
+﻿  TitleScene.cpp
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\Title\TitleScene.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\Title\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneBase.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\Vector2D.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Object\GameObject.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\InputManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\PadInputManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Effect\Fade.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+C:\dxlib\DxFunctionWin.h(268,1): warning C4010: 単一行コメント (//) に、行連結文字があります。
+  (ソース ファイル 'Scene/Title/TitleScene.cpp' をコンパイルしています)
+  
+  コード生成しています。
+  1 of 715 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  GameJam_2025_L.vcxproj -> C:\PG\GameJam_2025_L\GameJam_2025_L\x64\Release\GameJam_2025_L.exe

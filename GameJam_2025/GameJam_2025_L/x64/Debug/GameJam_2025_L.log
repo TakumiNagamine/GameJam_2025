@@ -1,0 +1,86 @@
+﻿  AppMain.cpp
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\AppMain.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\dxlib\DxFunctionWin.h(268,1): warning C4010: 単一行コメント (//) に、行連結文字があります。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\InputManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\PadInputManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\Vector2D.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\ResourceManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneBase.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Object\GameObject.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'AppMain.cpp' をコンパイルしています)
+  
+  EndScene.cpp
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\End\EndScene.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\End\EndScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/End/EndScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneBase.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/End/EndScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\Vector2D.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/End/EndScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Object\GameObject.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/End/EndScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/End/EndScene.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Effect\Fade.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/End/EndScene.cpp' をコンパイルしています)
+  
+C:\dxlib\DxFunctionWin.h(268,1): warning C4010: 単一行コメント (//) に、行連結文字があります。
+  (ソース ファイル 'Scene/End/EndScene.cpp' をコンパイルしています)
+  
+  SceneManager.cpp
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneManager.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\SceneBase.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\Vector2D.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Object\GameObject.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\Title\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\Tutorial\TutorialScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\InGame\InGameScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\Ranking\RankingScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\Result\ResultScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Utility\PadInputManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\PG\GameJam_2025_L\GameJam_2025_L\GameJam_2025_L\Scene\End\EndScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+  コードを生成中...
+  GameJam_2025_L.vcxproj -> C:\PG\GameJam_2025_L\GameJam_2025_L\x64\Debug\GameJam_2025_L.exe
